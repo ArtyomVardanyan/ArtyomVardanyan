@@ -1,7 +1,6 @@
 ### Hi I'm Artyom 👋
 
-<!--
-**ArtyomVardanyan/ArtyomVardanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Header](https://i.pinimg.com/originals/5c/5d/04/5c5d04c629c243571643a1ba5c517333.jpg)]()
 
 Here are some ideas to get you started:
 
