@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=rgb(131,58,180))](https://www.instagram.com/alexeyshpavda)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=linear-gradient(to right, #6190e8, #a7bfe8))](https://www.instagram.com/alexeyshpavda)
