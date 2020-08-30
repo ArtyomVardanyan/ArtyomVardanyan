@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 -->
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=FF8B00)](https://www.instagram.com/_a.r.t.y.o.m_/?r=nametag)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/artyom05050)
