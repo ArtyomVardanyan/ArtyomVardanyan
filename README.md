@@ -2,7 +2,7 @@
 ### Hi I'm Artyom 👋
 ### I'm a beginner Front End Developer
 
-#### Languages:
+#### Knowledge:
 ![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html&logoColor=E9D54D)
 ![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=html&logoColor=E9D54D)
 ![Sass/Scss](https://img.shields.io/badge/-Sass/Scss-090909?style=for-the-badge&logo=html&logoColor=E9D54D)
