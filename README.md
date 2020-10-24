@@ -1,6 +1,4 @@
-[![Header](https://i.pinimg.com/originals/5c/5d/04/5c5d04c629c243571643a1ba5c517333.jpg)]()
-### Hi I'm Artyom 👋
-### I'm a beginner Front End Developer
+[![Header](https://res.cloudinary.com/practicaldev/image/fetch/s--GAD4mcod--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/eb0ifoujbqbutfj8bknw.jpg)]()
 
 #### Knowledge:
 ![Html](https://img.shields.io/badge/-Html-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
