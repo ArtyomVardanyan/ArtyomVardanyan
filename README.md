@@ -7,5 +7,5 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
 #### Follow Me:
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF8B00)](https://www.instagram.com/_a.r.t.y.o.m_/?r=nametag)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF8B00)](https://www.instagram.com/artyom__vardanyan/?r=nametag)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/artyom05050)
