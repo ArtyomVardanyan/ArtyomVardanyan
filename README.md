@@ -2,7 +2,7 @@
 
 ## I'm junior React Developer
 
-#### Stats:
+### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARtyomVardanyan)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Languages and Tools:
