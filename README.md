@@ -9,6 +9,7 @@
 ![typescript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript)
 ![next](https://img.shields.io/badge/-next-000000?style=for-the-badge&logo=next)
 ![reactnative](https://img.shields.io/badge/-reactnative-000000?style=for-the-badge&logo=reactnative)
+![firebace](https://img.shields.io/badge/-firebace-000000?style=for-the-badge&logo=firebace)
 
 
 #### Follow Me:
