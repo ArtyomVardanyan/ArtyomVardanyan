@@ -1,16 +1,14 @@
 ![Header](https://github.com/ArtyomVardanyan/ArtyomVardanyan/blob/master/assets/githublogo_page-0001%20(1).jpg)
 
 #### Languages and Tools:
-![Html](https://img.shields.io/badge/-Html-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
-![Css](https://img.shields.io/badge/-Css-000000?style=for-the-badge&logo=html&logoColor=000000)
-![Sass(Scss)](https://img.shields.io/badge/-Sass(Scss)-000000?style=for-the-badge&logo=html&logoColor=E74C3C)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
-![React.js](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
-![Next.js](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
-![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass)
+![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
+![redux](https://img.shields.io/badge/-redux-000000?style=for-the-badge&logo=redux)
+![typescript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript)
+![next](https://img.shields.io/badge/-next-000000?style=for-the-badge&logo=next)
+![reactnative](https://img.shields.io/badge/-reactnative-000000?style=for-the-badge&logo=reactnative)
 
 
 #### Follow Me:
