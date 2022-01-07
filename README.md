@@ -1,5 +1,8 @@
 ![Header](https://github.com/ArtyomVardanyan/ArtyomVardanyan/blob/master/assets/githublogo_page-0001%20(1).jpg)
 
+#### Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARtyomVardanyan)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Languages and Tools:
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
