@@ -1,6 +1,6 @@
 ![Header](https://github.com/ArtyomVardanyan/ArtyomVardanyan/blob/master/assets/githublogo_page-0001%20(1).jpg)
 
-##I'm junior React Developer
+## I'm junior React Developer
 
 #### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARtyomVardanyan)](https://github.com/anuraghazra/github-readme-stats)
