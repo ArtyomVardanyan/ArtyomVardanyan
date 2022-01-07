@@ -2,7 +2,8 @@
 
 #### Knowledge:
 ![Html](https://img.shields.io/badge/-Html-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
-![Css](https://img.shields.io/badge/-Css-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
+![Css](https://img.shields.io/badge/-Css-000000?style=for-the-badge&logo=html&logoColor=000000)
+![Sass(Scss)](https://img.shields.io/badge/-Css-000000?style=for-the-badge&logo=html&logoColor=000000)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
 ![React.js](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
