@@ -1,6 +1,6 @@
 [![Header](https://ibb.co/jyqzntZ)]
 
-#### Knowledge:
+#### Languages and Tools:
 ![Html](https://img.shields.io/badge/-Html-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
 ![Css](https://img.shields.io/badge/-Css-000000?style=for-the-badge&logo=html&logoColor=000000)
 ![Sass(Scss)](https://img.shields.io/badge/-Sass(Scss)-000000?style=for-the-badge&logo=html&logoColor=E74C3C)
