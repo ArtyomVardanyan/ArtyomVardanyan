@@ -1,4 +1,4 @@
-![Header](https://github.com/ArtyomVardanyan/ArtyomVardanyan/blob/master/assets/githublogo_page-0001%20(1).jpg)
+![Header](https://github.com/ArtyomVardanyan/ArtyomVardanyan/blob/master/assets/githublogo_page-0001%20(2).jpg)
 
 ## I'm junior React Developer
 
