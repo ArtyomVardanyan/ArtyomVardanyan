@@ -15,4 +15,4 @@
 
 #### Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8a3ab9)](https://www.instagram.com/artyom__vardanyan/?r=nametag)
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ArtyomVardanyan)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=8a3ab9)](https://t.me/ArtyomVardanyan)
