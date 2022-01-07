@@ -10,6 +10,8 @@
 ![React.js](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
 ![Next.js](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
+![ReactNative](https://img.shields.io/badge/-React Native-000000?style=for-the-badge&logo=html&logoColor=E9D54D)
+
 
 #### Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF8B00)](https://www.instagram.com/artyom__vardanyan/?r=nametag)
