@@ -7,9 +7,9 @@
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
 ![redux](https://img.shields.io/badge/-redux-000000?style=for-the-badge&logo=redux)
 ![typescript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase)
 ![next](https://img.shields.io/badge/-next-000000?style=for-the-badge&logo=next)
 ![reactnative](https://img.shields.io/badge/-reactnative-000000?style=for-the-badge&logo=reactnative)
-![firebace](https://img.shields.io/badge/-firebace-000000?style=for-the-badge&logo=firebace)
 
 
 #### Follow Me:
