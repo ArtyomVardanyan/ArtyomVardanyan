@@ -1,6 +1,6 @@
 ![Header](https://github.com/ArtyomVardanyan/ArtyomVardanyan/blob/master/assets/githublogo_page-0001%20(2).jpg)
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm middle React Developer
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm middle React developer
 
 ### Statistic for 2022
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtyomVardanyan&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
